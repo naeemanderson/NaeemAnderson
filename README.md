@@ -10,10 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
-[<img align="left" alt="Naeem | https://www.linkedin.com/feed/>][linkedin]
-<h2>Operating Systems Used </h2>
-
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
