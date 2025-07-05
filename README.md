@@ -2,5 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-*https://github.com/naeemanderson/How-to-create-azure-virtual-machine
+*How to create Azure VM step by step
+https://github.com/naeemanderson/How-to-create-azure-virtual-machine
 
+*sticker Prerequisites and Installation 
+https://github.com/naeemanderson/osticket-prereqs
