@@ -5,5 +5,5 @@
 *How to create Azure VM step by step
 https://github.com/naeemanderson/How-to-create-azure-virtual-machine
 
-*sticker Prerequisites and Installation 
+*osTicket Prerequisites and Installation 
 https://github.com/naeemanderson/osticket-prereqs
