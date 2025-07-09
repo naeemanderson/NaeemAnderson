@@ -7,3 +7,6 @@ https://github.com/naeemanderson/How-to-create-azure-virtual-machine
 
 *osTicket Prerequisites and Installation 
 https://github.com/naeemanderson/osticket-prereqs
+
+HomeLab
+https://github.com/naeemanderson/HomeLab
