@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-*How to create Azure VM step by step
+•How to create Azure VM step by step
 https://github.com/naeemanderson/How-to-create-azure-virtual-machine
 
-*osTicket Prerequisites and Installation 
+•osTicket Prerequisites and Installation 
 https://github.com/naeemanderson/osticket-prereqs
 
-HomeLab
+•HomeLab
 https://github.com/naeemanderson/HomeLab
